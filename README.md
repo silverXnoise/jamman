@@ -68,6 +68,7 @@ This repository holds files, links, and assets to facilitate the reverse enginee
 
 ### Minimum System Requirements
 
+- Windows 7/10/11
 - OS X 10.8.5 – 10.12.6
 - Intel Core Processor
 - 2GB RAM 
