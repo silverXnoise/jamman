@@ -1,0 +1,6 @@
+[submodule "jamman-arduino-sync"]
+	path = resources/jamman-arduino-sync
+	url = https://github.com/silverXnoise/jamman-arduino-sync
+[submodule "Looperino"]
+	path = resources/Looperino
+	url = https://github.com/silverXnoise/Looperino
