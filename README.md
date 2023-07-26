@@ -9,7 +9,7 @@ This repository holds files, links, and assets to facilitate the reverse enginee
 ### DigiTech JamMan SoloXT
 
 > **Stereo Looping in a Compact Pedal with JamSync**
-> 
+>
 > After inventing looping nearly three decades ago, DigiTech’s JamMan Solo XT brings you the definitive stereo looping experience. Build up the energy in your performance and find new inspiration with virtually limitless loops. Seamless transitions between looped phrases make the JamMan Solo XT an invaluable tool for composing and performing. Get the stereo looping experience you need from straight-forward backing loops to intricate loop layers by yourself or with your band. Perfect your performance with Auto-Record, Auto-Quantize, adjustable BPMs, and three different Stop modes. Use the powerful JamSync to link JamMan Solo XTs and create the ultimate multi-looping system. The JamMan Solo XT gives your musical performance a rich, full sound while staying true to the sound you compose. Get your JamMan Solo XT today and tear down your musical limitations.
 
 #### Links
@@ -20,6 +20,8 @@ This repository holds files, links, and assets to facilitate the reverse enginee
 - [Sync To MIDI Clock][4] - by @[Calde-github][4a]
 - [Reverse Engineering Sync Signals][5]
 - [Protocol Info (2018)][6]
+- [Kitchen Sync][7]
+- [JamSync - How Does It Work?][8]
 
 #### Specifications
 
@@ -74,11 +76,13 @@ This repository holds files, links, and assets to facilitate the reverse enginee
 ---
 [1]: https://digitech.com/dp/jamman-solo-xt/
 [2]: https://eadn-wc05-7545739.nxedge.io/wp-content/uploads/2022/09/DigiTech_JamMan_Solo_XT_Manual.pdf
-[win]: https://web.archive.org/web/20230212041405/https://adn.harmanpro.com/softwares/wares/604_1504020489/JamManagerXTSetup_2.3.5.exe
-[mac]: https://web.archive.org/web/20170908204550/http://digitech.com/en-US/softwares/jammanager-xt-v2-3-5-mac-os-x-52ee012f-eff3-4a4d-98d4-b507b58b6ee8
 [3]: https://github.com/joeSeggiola/jamman-arduino-sync
 [3a]: https://github.com/joeSeggiola/jamman-arduino-sync
 [4]: https://github.com/Calde-github/Looperino/tree/master
 [4a]: https://github.com/Calde-github/Looperino
 [5]: https://www.freestompboxes.org/viewtopic.php?f=1&t=26184
 [6]: http://fuzzysynth.blogspot.com/2015/06/digitech-jam-man.html
+[7]: http://fuzzysynth.blogspot.com/2015/07/kitchensync.html
+[8]: https://www.freestompboxes.org/viewtopic.php?f=1&t=26184&p=251415&hilit=jamsync#p251415
+[win]: https://web.archive.org/web/20230212041405/https://adn.harmanpro.com/softwares/wares/604_1504020489/JamManagerXTSetup_2.3.5.exe
+[mac]: https://web.archive.org/web/20170908204550/http://digitech.com/en-US/softwares/jammanager-xt-v2-3-5-mac-os-x-52ee012f-eff3-4a4d-98d4-b507b58b6ee8
