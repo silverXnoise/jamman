@@ -12,7 +12,7 @@ This repository holds files, links, and assets to facilitate the reverse enginee
 >
 > After inventing looping nearly three decades ago, DigiTech’s JamMan Solo XT brings you the definitive stereo looping experience. Build up the energy in your performance and find new inspiration with virtually limitless loops. Seamless transitions between looped phrases make the JamMan Solo XT an invaluable tool for composing and performing. Get the stereo looping experience you need from straight-forward backing loops to intricate loop layers by yourself or with your band. Perfect your performance with Auto-Record, Auto-Quantize, adjustable BPMs, and three different Stop modes. Use the powerful JamSync to link JamMan Solo XTs and create the ultimate multi-looping system. The JamMan Solo XT gives your musical performance a rich, full sound while staying true to the sound you compose. Get your JamMan Solo XT today and tear down your musical limitations.
 
-#### Links
+## Links
 
 - [Product Page][1]
 - [Owner's Manual][2]
@@ -23,7 +23,7 @@ This repository holds files, links, and assets to facilitate the reverse enginee
 - [Kitchen Sync][7]
 - [JamSync - How Does It Work?][8]
 
-#### Specifications
+### Specifications
 
 |     |     |
 | --- | --- |
@@ -57,7 +57,7 @@ This repository holds files, links, and assets to facilitate the reverse enginee
 | **Width** | 3.125" |
 | **Height** | 2.25" |
 
-#### JamManager Software
+### Software
 
 **Note**: *DigiTech discontinued the JamMan series, and no longer offers its software on their website. These point to Internet Archive links instead.*
 
@@ -66,7 +66,7 @@ This repository holds files, links, and assets to facilitate the reverse enginee
 | **JamManager XT** | [Download][win] | Windows | 2.3.5 | Aug 29, 2017 |
 | **JamManager XT** | [Download][mac] | MacOS | 2.3.5 | Aug 29, 2017 |
 
-**Minimum System Requirements:**
+#### Minimum System Requirements
 
 - OS X 10.8.5 – 10.12.6
 - Intel Core Processor
