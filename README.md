@@ -23,7 +23,7 @@ This repository holds files, links, and assets to facilitate the reverse enginee
 - [Kitchen Sync][7]
 - [JamSync - How Does It Work?][8]
 
-### Specifications
+## Specifications
 
 |     |     |
 | --- | --- |
@@ -40,7 +40,7 @@ This repository holds files, links, and assets to facilitate the reverse enginee
 | **Power Consumption** | Less that 9 Watts |
 | **Power Supply** | PS0920DC (Included), Output = 9.0VDC 2.0A |
 
-#### Audio I/O
+### Audio I/O
 
 |     |     |
 | --- | --- |
@@ -49,7 +49,7 @@ This repository holds files, links, and assets to facilitate the reverse enginee
 | **Footswitch Input** | 1/4” Stereo (Tip-Ring-Sleeve), compatible with optional DigiTech® FS3X 3-button footswitch |
 | **Output** | 2 x 1/4" (L/R) |
 
-#### Dimensions
+### Dimensions
 
 |     |     |
 | --- | --- |
@@ -57,7 +57,7 @@ This repository holds files, links, and assets to facilitate the reverse enginee
 | **Width** | 3.125" |
 | **Height** | 2.25" |
 
-### Software
+## Software
 
 **Note**: *DigiTech discontinued the JamMan series, and no longer offers its software on their website. These point to Internet Archive links instead.*
 
@@ -66,7 +66,7 @@ This repository holds files, links, and assets to facilitate the reverse enginee
 | **JamManager XT** | [Download][win] | Windows | 2.3.5 | Aug 29, 2017 |
 | **JamManager XT** | [Download][mac] | MacOS | 2.3.5 | Aug 29, 2017 |
 
-#### Minimum System Requirements
+### Minimum System Requirements
 
 - OS X 10.8.5 – 10.12.6
 - Intel Core Processor
