@@ -1,6 +1,6 @@
 # File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
-# Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,altium,audio,c,c++,eagle,kicad,labview,lsspice,ltspice,macos,matlab,octave,orcad,processing
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,altium,audio,c,c++,eagle,kicad,labview,lsspice,ltspice,macos,matlab,octave,orcad,processing
+# Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,processing,orcad,octave,matlab,macos,ltspice,lsspice,labview,kicad,eagle,c++,c,audio,altium
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,processing,orcad,octave,matlab,macos,ltspice,lsspice,labview,kicad,eagle,c++,c,audio,altium
 
 ### Altium ###
 # Previews Folders
@@ -377,7 +377,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,altium,audio,c,c++,eagle,kicad,labview,lsspice,ltspice,macos,matlab,octave,orcad,processing
+# End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,processing,orcad,octave,matlab,macos,ltspice,lsspice,labview,kicad,eagle,c++,c,audio,altium
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
+JamMan Hacking.code-workspace
